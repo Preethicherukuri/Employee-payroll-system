@@ -31,7 +31,7 @@ EmployeePayrollSystem/
 ```
 📝 At runtime:
 ```
-+ payroll_data.txt     # Auto-generated file (excluded from Git)
++ payroll_data.txt     # Auto-generated file 
 ```
 ---
 
